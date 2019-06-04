@@ -1,3 +1,5 @@
 {
-  "python.pythonPath": "/Users/liuyao/Documents/pythonProj/microblog/venv/bin/python3"
+  "python.pythonPath": "/Users/liuyao/Documents/pythonProj/microblog/venv/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
